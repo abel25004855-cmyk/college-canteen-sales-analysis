@@ -1,0 +1,601 @@
+Order_ID,Date,Time,Item,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Valid_Order_ID,Hour,Day
+ORD0001,2026-08-07,08:20,Coffee,Beverage,1,25,25,UPI,True,8,Friday
+ORD0002,2026-08-11,14:23,Chicken Fried Rice,Lunch,2,130,260,UPI,True,14,Tuesday
+ORD0003,2026-08-24,08:32,Coffee,Beverage,1,25,25,UPI,True,8,Monday
+ORD0004,2026-08-12,13:41,Masala Dosa,Breakfast,1,50,50,CARD,True,13,Wednesday
+ORD0005,2026-08-15,17:43,Chicken Fried Rice,Lunch,1,130,130,UPI,True,17,Saturday
+ORD0006,2026-08-03,11:38,Fresh Lime,Beverage,1,35,35,CARD,True,11,Monday
+ORD0007,2026-08-14,11:01,Coffee,Beverage,2,25,50,UPI,True,11,Friday
+ORD0008,2026-08-07,17:13,Chicken Biryani,Lunch,1,150,150,UPI,True,17,Friday
+ORD0009,2026-08-04,12:03,Samosa,Snacks,1,25,25,CARD,True,12,Tuesday
+ORD0010,2026-08-26,14:13,Chicken Fried Rice,Lunch,2,130,260,UPI,True,14,Wednesday
+ORD0011,2026-08-14,08:15,Chicken Roll,Snacks,2,100,200,UPI,True,8,Friday
+ORD0012,2026-08-24,14:44,French Fries,Snacks,1,70,70,CASH,True,14,Monday
+ORD0013,2026-08-01,11:43,Masala Dosa,Breakfast,1,50,50,UPI,True,11,Saturday
+ORD0014,2026-08-19,11:58,Noodles,Lunch,1,90,90,UPI,True,11,Wednesday
+ORD0015,2026-08-09,18:33,Cold Drink,Beverage,1,40,40,UPI,True,18,Sunday
+ORD0016,2026-08-30,14:21,Samosa,Snacks,3,25,75,UPI,True,14,Sunday
+ORD0017,2026-08-05,15:25,Chocolate,Snacks,1,30,30,UPI,True,15,Wednesday
+ORD0018,2026-08-27,12:59,Chicken Roll,Lunch,1,110,110,UPI,True,12,Thursday
+ORD0019,2026-08-07,14:29,Chicken Fried Rice,Lunch,1,130,130,UPI,True,14,Friday
+ORD0020,2026-08-15,14:06,Tea,Beverage,1,20,20,UPI,True,14,Saturday
+ORD0021,2026-08-02,11:05,Chicken Biryani,Lunch,1,150,150,UPI,True,11,Sunday
+ORD0022,2026-08-20,12:54,Cold Drink,Beverage,3,40,120,UPI,True,12,Thursday
+ORD0023,2026-08-01,11:51,Samosa,Snacks,1,25,25,UPI,True,11,Saturday
+ORD0024,2026-08-06,11:32,Chicken Fried Rice,Lunch,1,130,130,UPI,True,11,Thursday
+ORD0025,2026-08-15,08:51,Veg Sandwich,Snacks,1,60,60,CARD,True,8,Saturday
+ORD0026,2026-08-20,13:48,Chicken Roll,Snacks,1,100,100,CARD,True,13,Thursday
+ORD0027,2026-08-27,12:22,Chicken Biryani,Lunch,1,150,150,CARD,True,12,Thursday
+ORD0028,2026-08-19,12:31,Noodles,Lunch,1,90,90,UPI,True,12,Wednesday
+ORD0029,2026-08-23,13:37,Tea,Beverage,1,20,20,UPI,True,13,Sunday
+ORD0030,2026-08-06,18:32,Veg Fried Rice,Lunch,1,100,100,UPI,True,18,Thursday
+ORD0031,2026-08-16,13:35,Masala Dosa,Breakfast,1,50,50,UPI,True,13,Sunday
+ORD0032,2026-08-19,08:32,French Fries,Snacks,1,70,70,UPI,True,8,Wednesday
+ORD0033,2026-08-08,11:49,Veg Sandwich,Snacks,3,60,180,CASH,True,11,Saturday
+ORD0034,2026-08-03,08:51,Chicken Roll,Snacks,1,100,100,UPI,True,8,Monday
+ORD0035,2026-08-16,14:58,Chocolate,Snacks,1,30,30,UPI,True,14,Sunday
+ORD0036,2026-08-19,18:53,Tea,Beverage,2,20,40,UPI,True,18,Wednesday
+ORD0037,2026-08-11,18:19,Water Bottle,Beverage,1,20,20,UPI,True,18,Tuesday
+ORD0038,2026-08-25,09:17,Noodles,Lunch,1,90,90,UPI,True,9,Tuesday
+ORD0039,2026-08-29,11:13,Chicken Roll,Snacks,1,100,100,CASH,True,11,Saturday
+ORD0040,2026-08-08,11:47,Fresh Lime,Beverage,1,35,35,UPI,True,11,Saturday
+ORD0041,2026-08-23,12:44,Chicken Roll,Snacks,1,100,100,CARD,True,12,Sunday
+ORD0042,2026-08-27,14:46,Coffee,Beverage,1,25,25,UPI,True,14,Thursday
+ORD0043,2026-08-29,14:48,Chicken Fried Rice,Lunch,1,130,130,CARD,True,14,Saturday
+ORD0044,2026-08-30,17:59,Water Bottle,Beverage,1,20,20,CARD,True,17,Sunday
+ORD0045,2026-08-17,14:32,Veg Biryani,Lunch,1,110,110,UPI,True,14,Monday
+ORD0046,2026-08-23,12:24,Samosa,Snacks,1,25,25,CASH,True,12,Sunday
+ORD0047,2026-08-03,10:21,Veg Biryani,Lunch,1,110,110,UPI,True,10,Monday
+ORD0048,2026-08-10,11:08,Cold Drink,Beverage,2,40,80,UPI,True,11,Monday
+ORD0049,2026-08-29,12:24,Samosa,Snacks,1,25,25,UPI,True,12,Saturday
+ORD0050,2026-08-07,15:07,Chicken Fried Rice,Lunch,2,130,260,CASH,True,15,Friday
+ORD0051,2026-08-12,09:01,Cold Drink,Beverage,1,40,40,UPI,True,9,Wednesday
+ORD0052,2026-08-19,11:21,Chicken Fried Rice,Lunch,1,130,130,UPI,True,11,Wednesday
+ORD0053,2026-08-20,13:59,Masala Dosa,Breakfast,1,50,50,CASH,True,13,Thursday
+ORD0054,2026-08-28,14:05,Chicken Roll,Snacks,1,100,100,UPI,True,14,Friday
+ORD0055,2026-08-15,08:49,Noodles,Lunch,1,90,90,UPI,True,8,Saturday
+ORD0056,2026-08-17,12:54,Veg Fried Rice,Lunch,1,100,100,UPI,True,12,Monday
+ORD0057,2026-08-30,11:00,Fresh Lime,Beverage,1,35,35,UPI,True,11,Sunday
+ORD0058,2026-08-02,08:39,Chicken Roll,Snacks,3,100,300,UPI,True,8,Sunday
+ORD0059,2026-08-29,12:28,Tea,Beverage,1,20,20,UPI,True,12,Saturday
+ORD0060,2026-08-16,08:13,Veg Sandwich,Snacks,1,60,60,UPI,True,8,Sunday
+ORD0061,2026-08-30,14:15,Fresh Lime,Beverage,1,35,35,UPI,True,14,Sunday
+ORD0062,2026-08-07,11:22,French Fries,Snacks,1,70,70,CARD,True,11,Friday
+ORD0063,2026-08-04,12:18,Masala Dosa,Breakfast,1,50,50,CASH,True,12,Tuesday
+ORD0064,2026-08-05,14:54,Noodles,Lunch,3,90,270,CASH,True,14,Wednesday
+ORD0065,2026-08-27,13:59,Coffee,Beverage,1,25,25,CASH,True,13,Thursday
+ORD0066,2026-08-11,11:39,Water Bottle,Beverage,3,20,60,UPI,True,11,Tuesday
+ORD0067,2026-08-13,11:50,Chicken Roll,Snacks,1,100,100,UPI,True,11,Thursday
+ORD0068,2026-08-26,16:33,Samosa,Snacks,1,25,25,UPI,True,16,Wednesday
+ORD0069,2026-08-26,11:55,Noodles,Lunch,2,90,180,CASH,True,11,Wednesday
+ORD0070,2026-08-25,14:34,Veg Biryani,Lunch,4,110,440,UPI,True,14,Tuesday
+ORD0071,2026-08-18,13:31,Chicken Roll,Snacks,2,100,200,UPI,True,13,Tuesday
+ORD0072,2026-08-13,12:16,Tea,Beverage,1,20,20,UPI,True,12,Thursday
+ORD0073,2026-08-25,15:35,Samosa,Snacks,1,25,25,CARD,True,15,Tuesday
+ORD0074,2026-08-12,17:51,French Fries,Snacks,1,70,70,UPI,True,17,Wednesday
+ORD0075,2026-08-21,14:58,Idli Vada,Breakfast,1,45,45,CARD,True,14,Friday
+ORD0076,2026-08-16,09:57,Coffee,Beverage,1,25,25,UPI,True,9,Sunday
+ORD0077,2026-08-05,13:17,Tea,Beverage,3,20,60,CASH,True,13,Wednesday
+ORD0078,2026-08-26,10:45,Chicken Biryani,Lunch,2,150,300,UPI,True,10,Wednesday
+ORD0079,2026-08-18,08:36,Cold Drink,Beverage,1,40,40,UPI,True,8,Tuesday
+ORD0080,2026-08-13,17:06,French Fries,Snacks,4,70,280,CASH,True,17,Thursday
+ORD0081,2026-08-06,14:53,Noodles,Lunch,2,90,180,UPI,True,14,Thursday
+ORD0082,2026-08-19,11:49,Poori,Breakfast,1,50,50,UPI,True,11,Wednesday
+ORD0083,2026-08-28,17:00,Tea,Beverage,2,20,40,UPI,True,17,Friday
+ORD0084,2026-08-25,14:32,French Fries,Snacks,1,70,70,CARD,True,14,Tuesday
+ORD0085,2026-08-12,13:20,Chocolate,Snacks,1,30,30,CARD,True,13,Wednesday
+ORD0086,2026-08-28,14:56,Idli Vada,Breakfast,1,45,45,UPI,True,14,Friday
+ORD0087,2026-08-14,16:53,Samosa,Snacks,1,25,25,CASH,True,16,Friday
+ORD0088,2026-08-11,18:37,Samosa,Snacks,1,25,25,UPI,True,18,Tuesday
+ORD0089,2026-08-08,14:57,Veg Sandwich,Snacks,1,60,60,UPI,True,14,Saturday
+ORD0090,2026-08-05,16:16,Chocolate,Snacks,1,30,30,UPI,True,16,Wednesday
+ORD0091,2026-08-13,09:34,Noodles,Lunch,2,90,180,CARD,True,9,Thursday
+ORD0092,2026-08-05,14:29,Chicken Biryani,Lunch,2,150,300,UPI,True,14,Wednesday
+ORD0093,2026-08-23,16:31,Veg Fried Rice,Lunch,4,100,400,UPI,True,16,Sunday
+ORD0094,2026-08-26,17:48,Veg Fried Rice,Lunch,2,100,200,UPI,True,17,Wednesday
+ORD0095,2026-08-03,10:05,Veg Sandwich,Snacks,2,60,120,UPI,True,10,Monday
+ORD0096,2026-08-05,11:52,Chocolate,Snacks,3,30,90,CASH,True,11,Wednesday
+ORD0097,2026-08-17,08:50,Chicken Roll,Snacks,1,100,100,UPI,True,8,Monday
+ORD0098,2026-08-01,14:30,Noodles,Lunch,1,90,90,UPI,True,14,Saturday
+ORD0099,2026-08-02,16:11,Chicken Fried Rice,Lunch,2,130,260,CARD,True,16,Sunday
+ORD0100,2026-08-30,14:46,Cold Drink,Beverage,1,40,40,CASH,True,14,Sunday
+ORD0101,2026-08-14,09:59,Noodles,Lunch,4,90,360,UPI,True,9,Friday
+ORD0102,2026-08-18,13:33,Veg Fried Rice,Lunch,1,100,100,UPI,True,13,Tuesday
+ORD0103,2026-08-24,12:50,Cold Drink,Beverage,2,40,80,CASH,True,12,Monday
+ORD0104,2026-08-10,14:19,Water Bottle,Beverage,1,20,20,CARD,True,14,Monday
+ORD0105,2026-08-21,10:47,French Fries,Snacks,1,70,70,UPI,True,10,Friday
+ORD0106,2026-08-23,09:15,Poori,Breakfast,2,50,100,UPI,True,9,Sunday
+ORD0107,2026-08-24,17:28,Veg Fried Rice,Lunch,4,100,400,UPI,True,17,Monday
+ORD0108,2026-08-19,09:21,Masala Dosa,Breakfast,1,50,50,UPI,True,9,Wednesday
+ORD0109,2026-08-09,15:13,French Fries,Snacks,1,70,70,UPI,True,15,Sunday
+ORD0110,2026-08-26,13:55,Coffee,Beverage,3,25,75,CARD,True,13,Wednesday
+ORD0111,2026-08-29,18:48,Masala Dosa,Breakfast,1,50,50,CARD,True,18,Saturday
+ORD0112,2026-08-15,12:27,French Fries,Snacks,1,70,70,UPI,True,12,Saturday
+ORD0113,2026-08-13,10:06,Idli Vada,Breakfast,2,45,90,CASH,True,10,Thursday
+ORD0114,2026-08-11,09:37,Veg Biryani,Lunch,1,110,110,UPI,True,9,Tuesday
+ORD0115,2026-08-25,10:56,Tea,Beverage,2,20,40,UPI,True,10,Tuesday
+ORD0116,2026-08-30,18:24,Poori,Breakfast,2,50,100,CASH,True,18,Sunday
+ORD0117,2026-08-13,12:33,Chicken Fried Rice,Lunch,1,130,130,UPI,True,12,Thursday
+ORD0118,2026-08-12,12:51,Poori,Breakfast,2,50,100,UPI,True,12,Wednesday
+ORD0119,2026-08-24,11:32,Chicken Fried Rice,Lunch,1,130,130,UPI,True,11,Monday
+ORD0120,2026-08-06,10:29,Chicken Roll,Snacks,1,100,100,CASH,True,10,Thursday
+ORD0121,2026-08-23,08:35,Masala Dosa,Breakfast,4,50,200,CASH,True,8,Sunday
+ORD0122,2026-08-20,16:53,Chocolate,Snacks,1,30,30,UPI,True,16,Thursday
+ORD0123,2026-08-19,13:07,Coffee,Beverage,1,25,25,CASH,True,13,Wednesday
+ORD0124,2026-08-05,13:19,Chicken Roll,Snacks,1,100,100,UPI,True,13,Wednesday
+ORD0125,2026-08-15,12:36,Noodles,Lunch,1,90,90,CARD,True,12,Saturday
+ORD0126,2026-08-13,09:55,Veg Biryani,Lunch,1,110,110,UPI,True,9,Thursday
+ORD0127,2026-08-12,14:00,Chicken Roll,Snacks,1,100,100,UPI,True,14,Wednesday
+ORD0128,2026-08-09,13:34,Chicken Biryani,Lunch,1,150,150,CARD,True,13,Sunday
+ORD0129,2026-08-30,11:55,Tea,Beverage,4,20,80,UPI,True,11,Sunday
+ORD0130,2026-08-03,12:59,Idli Vada,Breakfast,2,45,90,UPI,True,12,Monday
+ORD0131,2026-08-09,17:20,Tea,Beverage,1,20,20,UPI,True,17,Sunday
+ORD0132,2026-08-14,11:41,Veg Biryani,Lunch,1,110,110,CASH,True,11,Friday
+ORD0133,2026-08-07,15:37,Noodles,Lunch,1,90,90,UPI,True,15,Friday
+ORD0134,2026-08-01,17:01,Chicken Roll,Snacks,1,100,100,CARD,True,17,Saturday
+ORD0135,2026-08-19,13:06,Veg Biryani,Lunch,2,110,220,CASH,True,13,Wednesday
+ORD0136,2026-08-20,14:29,Coffee,Beverage,3,25,75,CASH,True,14,Thursday
+ORD0137,2026-08-06,13:54,Tea,Beverage,1,20,20,UPI,True,13,Thursday
+ORD0138,2026-08-02,15:53,Tea,Beverage,2,20,40,UPI,True,15,Sunday
+ORD0139,2026-08-04,13:28,Chicken Fried Rice,Lunch,1,130,130,UPI,True,13,Tuesday
+ORD0140,2026-08-04,13:50,Tea,Beverage,2,20,40,UPI,True,13,Tuesday
+ORD0141,2026-08-11,16:09,Chicken Biryani,Lunch,1,150,150,UPI,True,16,Tuesday
+ORD0142,2026-08-23,18:25,Chicken Fried Rice,Lunch,1,130,130,UPI,True,18,Sunday
+ORD0143,2026-08-25,13:11,Chicken Roll,Snacks,1,100,100,CARD,True,13,Tuesday
+ORD0144,2026-08-05,12:48,Water Bottle,Beverage,1,20,20,UPI,True,12,Wednesday
+ORD0145,2026-08-22,08:21,Idli Vada,Breakfast,3,45,135,UPI,True,8,Saturday
+ORD0146,2026-08-05,16:22,Chocolate,Snacks,3,30,90,CASH,True,16,Wednesday
+ORD0147,2026-08-23,13:08,Chicken Roll,Snacks,2,100,200,UPI,True,13,Sunday
+ORD0148,2026-08-25,13:51,Masala Dosa,Breakfast,1,50,50,CARD,True,13,Tuesday
+ORD0149,2026-08-02,13:16,Chicken Fried Rice,Lunch,1,130,130,UPI,True,13,Sunday
+ORD0150,2026-08-27,10:51,Veg Sandwich,Snacks,1,60,60,CARD,True,10,Thursday
+ORD0151,2026-08-17,12:27,Tea,Beverage,1,20,20,UPI,True,12,Monday
+ORD0152,2026-08-17,09:21,Water Bottle,Beverage,1,20,20,CARD,True,9,Monday
+ORD0153,2026-08-17,12:22,Samosa,Snacks,1,25,25,CASH,True,12,Monday
+ORD0154,2026-08-30,08:28,Chicken Roll,Snacks,1,100,100,UPI,True,8,Sunday
+ORD0155,2026-08-18,12:01,Samosa,Snacks,1,25,25,UPI,True,12,Tuesday
+ORD0156,2026-08-30,08:07,Veg Biryani,Lunch,2,110,220,CARD,True,8,Sunday
+ORD0157,2026-08-10,14:32,Samosa,Snacks,1,25,25,UPI,True,14,Monday
+ORD0158,2026-08-18,11:54,Fresh Lime,Beverage,1,35,35,UPI,True,11,Tuesday
+ORD0159,2026-08-29,11:02,Chicken Biryani,Lunch,3,150,450,UPI,True,11,Saturday
+ORD0160,2026-08-08,12:31,Idli Vada,Breakfast,2,45,90,CASH,True,12,Saturday
+ORD0161,2026-08-04,09:30,Water Bottle,Beverage,1,20,20,UPI,True,9,Tuesday
+ORD0162,2026-08-10,10:47,Idli Vada,Breakfast,1,45,45,UPI,True,10,Monday
+ORD0163,2026-08-28,15:19,Noodles,Lunch,1,90,90,CASH,True,15,Friday
+ORD0164,2026-08-03,11:36,Chicken Biryani,Lunch,1,150,150,UPI,True,11,Monday
+ORD0165,2026-08-02,09:21,Fresh Lime,Beverage,2,35,70,UPI,True,9,Sunday
+ORD0166,2026-08-30,18:31,Chicken Fried Rice,Lunch,1,130,130,UPI,True,18,Sunday
+ORD0167,2026-08-14,11:38,Tea,Beverage,1,20,20,UPI,True,11,Friday
+ORD0168,2026-08-14,11:33,Chocolate,Snacks,1,30,30,UPI,True,11,Friday
+ORD0169,2026-08-18,15:37,Veg Biryani,Lunch,1,110,110,UPI,True,15,Tuesday
+ORD0170,2026-08-06,09:21,Coffee,Beverage,1,25,25,CARD,True,9,Thursday
+ORD0171,2026-08-06,11:56,Tea,Beverage,1,20,20,UPI,True,11,Thursday
+ORD0172,2026-08-17,12:45,Veg Fried Rice,Lunch,1,100,100,UPI,True,12,Monday
+ORD0173,2026-08-11,10:25,Veg Sandwich,Snacks,1,60,60,CASH,True,10,Tuesday
+ORD0174,2026-08-11,13:39,French Fries,Snacks,1,70,70,UPI,True,13,Tuesday
+ORD0175,2026-08-15,08:57,Water Bottle,Beverage,1,20,20,UPI,True,8,Saturday
+ORD0176,2026-08-03,17:44,Fresh Lime,Beverage,1,35,35,UPI,True,17,Monday
+ORD0177,2026-08-02,08:00,Poori,Breakfast,1,50,50,CASH,True,8,Sunday
+ORD0178,2026-08-10,09:36,Chicken Fried Rice,Lunch,1,130,130,CARD,True,9,Monday
+ORD0179,2026-08-06,14:58,Chicken Biryani,Lunch,3,150,450,UPI,True,14,Thursday
+ORD0180,2026-08-10,14:15,Noodles,Lunch,3,90,270,CASH,True,14,Monday
+ORD0181,2026-08-21,14:05,Tea,Beverage,4,20,80,CARD,True,14,Friday
+ORD0182,2026-08-12,15:25,Chicken Roll,Snacks,1,100,100,CASH,True,15,Wednesday
+ORD0183,2026-08-07,12:57,Chocolate,Snacks,1,30,30,UPI,True,12,Friday
+ORD0184,2026-08-07,16:58,Samosa,Snacks,3,25,75,UPI,True,16,Friday
+ORD0185,2026-08-30,13:41,Masala Dosa,Breakfast,2,50,100,UPI,True,13,Sunday
+ORD0186,2026-08-24,09:02,Chicken Roll,Snacks,2,100,200,UPI,True,9,Monday
+ORD0187,2026-08-23,14:48,Veg Fried Rice,Lunch,1,100,100,UPI,True,14,Sunday
+ORD0188,2026-08-13,16:43,Chicken Biryani,Lunch,1,150,150,UPI,True,16,Thursday
+ORD0189,2026-08-10,08:12,Chocolate,Snacks,1,30,30,CARD,True,8,Monday
+ORD0190,2026-08-27,12:48,Chocolate,Snacks,1,30,30,UPI,True,12,Thursday
+ORD0191,2026-08-25,11:09,Chicken Biryani,Lunch,1,150,150,UPI,True,11,Tuesday
+ORD0192,2026-08-20,13:44,Tea,Beverage,1,20,20,UPI,True,13,Thursday
+ORD0193,2026-08-04,14:00,Tea,Beverage,3,20,60,UPI,True,14,Tuesday
+ORD0194,2026-08-15,14:58,Veg Fried Rice,Lunch,3,100,300,CASH,True,14,Saturday
+ORD0195,2026-08-11,17:45,Chicken Biryani,Lunch,1,150,150,CARD,True,17,Tuesday
+ORD0196,2026-08-02,17:07,Veg Sandwich,Snacks,3,60,180,UPI,True,17,Sunday
+ORD0197,2026-08-21,10:33,Coffee,Beverage,1,25,25,UPI,True,10,Friday
+ORD0198,2026-08-26,11:53,Tea,Beverage,3,20,60,CASH,True,11,Wednesday
+ORD0199,2026-08-03,13:41,Chicken Biryani,Lunch,1,150,150,UPI,True,13,Monday
+ORD0200,2026-08-17,16:12,Veg Sandwich,Snacks,1,60,60,UPI,True,16,Monday
+ORD0201,2026-08-09,17:40,Cold Drink,Beverage,1,40,40,UPI,True,17,Sunday
+ORD0202,2026-08-29,18:41,Cold Drink,Beverage,2,40,80,UPI,True,18,Saturday
+ORD0203,2026-08-05,14:14,Tea,Beverage,1,20,20,CASH,True,14,Wednesday
+ORD0204,2026-08-16,08:27,Chicken Fried Rice,Lunch,1,130,130,CASH,True,8,Sunday
+ORD0205,2026-08-08,13:57,Cold Drink,Beverage,1,40,40,UPI,True,13,Saturday
+ORD0206,2026-08-08,12:23,Veg Biryani,Lunch,2,110,220,UPI,True,12,Saturday
+ORD0207,2026-08-01,08:42,Veg Sandwich,Snacks,1,60,60,CARD,True,8,Saturday
+ORD0208,2026-08-04,13:04,Chicken Biryani,Lunch,3,150,450,CASH,True,13,Tuesday
+ORD0209,2026-08-19,10:52,Cold Drink,Beverage,2,40,80,UPI,True,10,Wednesday
+ORD0210,2026-08-04,14:38,Veg Biryani,Lunch,1,110,110,UPI,True,14,Tuesday
+ORD0211,2026-08-27,13:33,Chocolate,Snacks,2,30,60,UPI,True,13,Thursday
+ORD0212,2026-08-03,13:09,Poori,Breakfast,1,50,50,CASH,True,13,Monday
+ORD0213,2026-08-28,15:21,Chicken Biryani,Lunch,3,150,450,CASH,True,15,Friday
+ORD0214,2026-08-18,09:16,Water Bottle,Beverage,1,20,20,UPI,True,9,Tuesday
+ORD0215,2026-08-26,16:46,Idli Vada,Breakfast,3,45,135,CASH,True,16,Wednesday
+ORD0216,2026-08-03,11:10,Chicken Biryani,Lunch,2,150,300,UPI,True,11,Monday
+ORD0217,2026-08-19,09:45,Chicken Roll,Snacks,1,100,100,CARD,True,9,Wednesday
+ORD0218,2026-08-03,10:28,Chicken Fried Rice,Lunch,2,130,260,UPI,True,10,Monday
+ORD0219,2026-08-02,13:26,Tea,Beverage,2,20,40,CARD,True,13,Sunday
+ORD0220,2026-08-24,18:36,Veg Fried Rice,Lunch,2,100,200,UPI,True,18,Monday
+ORD0221,2026-08-25,12:59,Veg Fried Rice,Lunch,2,100,200,CASH,True,12,Tuesday
+ORD0222,2026-08-03,14:17,Masala Dosa,Breakfast,2,50,100,UPI,True,14,Monday
+ORD0223,2026-08-08,08:52,Veg Sandwich,Snacks,1,60,60,UPI,True,8,Saturday
+ORD0224,2026-08-18,14:43,Tea,Beverage,1,20,20,CARD,True,14,Tuesday
+ORD0225,2026-08-03,12:13,Veg Sandwich,Snacks,1,60,60,UPI,True,12,Monday
+ORD0226,2026-08-20,08:59,Veg Fried Rice,Lunch,1,100,100,UPI,True,8,Thursday
+ORD0227,2026-08-21,14:12,Chicken Biryani,Lunch,1,150,150,UPI,True,14,Friday
+ORD0228,2026-08-30,13:37,Veg Fried Rice,Lunch,1,100,100,CASH,True,13,Sunday
+ORD0229,2026-08-01,17:21,Water Bottle,Beverage,2,20,40,UPI,True,17,Saturday
+ORD0230,2026-08-12,09:21,Chocolate,Lunch,1,30,30,UPI,True,9,Wednesday
+ORD0231,2026-08-08,12:32,Masala Dosa,Breakfast,1,50,50,UPI,True,12,Saturday
+ORD0232,2026-08-01,13:01,Coffee,Beverage,4,25,100,UPI,True,13,Saturday
+ORD0233,2026-08-26,10:43,Coffee,Beverage,1,25,25,UPI,True,10,Wednesday
+ORD0234,2026-08-03,11:38,Cold Drink,Beverage,1,40,40,UPI,True,11,Monday
+ORD0235,2026-08-12,12:19,Fresh Lime,Beverage,1,35,35,CASH,True,12,Wednesday
+ORD0236,2026-08-07,12:57,Noodles,Lunch,2,90,180,UPI,True,12,Friday
+ORD0237,2026-08-09,12:53,Veg Sandwich,Snacks,1,60,60,UPI,True,12,Sunday
+ORD0238,2026-08-25,10:45,Cold Drink,Beverage,1,40,40,UPI,True,10,Tuesday
+ORD0239,2026-08-23,09:05,Veg Fried Rice,Lunch,2,100,200,UPI,True,9,Sunday
+ORD0240,2026-08-24,12:50,Chocolate,Snacks,2,30,60,UPI,True,12,Monday
+ORD0241,2026-08-15,12:20,Chicken Roll,Snacks,2,100,200,CASH,True,12,Saturday
+ORD0242,2026-08-20,12:19,Chicken Biryani,Lunch,1,150,150,UPI,True,12,Thursday
+ORD0243,2026-08-19,11:33,Chicken Biryani,Lunch,1,150,150,CASH,True,11,Wednesday
+ORD0244,2026-08-02,13:50,Coffee,Beverage,1,25,25,UPI,True,13,Sunday
+ORD0245,2026-08-03,13:32,Chicken Biryani,Lunch,1,150,150,CASH,True,13,Monday
+ORD0246,2026-08-16,12:13,Chicken Biryani,Lunch,1,150,150,UPI,True,12,Sunday
+ORD0247,2026-08-06,14:46,Chicken Fried Rice,Lunch,1,130,130,UPI,True,14,Thursday
+ORD0248,2026-08-20,10:24,Chicken Biryani,Lunch,3,150,450,UPI,True,10,Thursday
+ORD0249,2026-08-05,14:55,Masala Dosa,Breakfast,1,50,50,UPI,True,14,Wednesday
+ORD0250,2026-08-11,14:09,Cold Drink,Beverage,1,40,40,UPI,True,14,Tuesday
+ORD0251,2026-08-09,13:11,Veg Fried Rice,Lunch,2,100,200,UPI,True,13,Sunday
+ORD0252,2026-08-20,13:36,Veg Fried Rice,Lunch,1,100,100,CASH,True,13,Thursday
+ORD0253,2026-08-24,13:05,Coffee,Beverage,1,25,25,UPI,True,13,Monday
+ORD0254,2026-08-18,08:19,Chocolate,Snacks,1,30,30,UPI,True,8,Tuesday
+ORD0255,2026-08-03,15:32,Chicken Fried Rice,Lunch,1,130,130,UPI,True,15,Monday
+ORD0256,2026-08-10,13:42,Veg Fried Rice,Lunch,1,100,100,UPI,True,13,Monday
+ORD0257,2026-08-29,13:42,Fresh Lime,Beverage,1,35,35,UPI,True,13,Saturday
+ORD0258,2026-08-20,09:41,Poori,Breakfast,2,50,100,UPI,True,9,Thursday
+ORD0259,2026-08-21,14:37,Idli Vada,Breakfast,2,45,90,UPI,True,14,Friday
+ORD0260,2026-08-02,17:09,Noodles,Lunch,1,90,90,UPI,True,17,Sunday
+ORD0261,2026-08-26,14:26,Fresh Lime,Beverage,3,35,105,CASH,True,14,Wednesday
+ORD0262,2026-08-01,16:52,Chicken Biryani,Lunch,2,150,300,UPI,True,16,Saturday
+ORD0263,2026-08-30,16:08,Noodles,Lunch,2,90,180,CARD,True,16,Sunday
+ORD0264,2026-08-13,11:10,Coffee,Beverage,3,25,75,UPI,True,11,Thursday
+ORD0265,2026-08-14,12:17,Water Bottle,Beverage,3,20,60,UPI,True,12,Friday
+ORD0266,2026-08-13,09:06,Coffee,Beverage,1,25,25,UPI,True,9,Thursday
+ORD0267,2026-08-12,13:59,Chicken Biryani,Lunch,1,150,150,UPI,True,13,Wednesday
+ORD0268,2026-08-17,10:34,Chicken Fried Rice,Lunch,1,130,130,UPI,True,10,Monday
+ORD0269,2026-08-02,12:07,Chicken Fried Rice,Lunch,1,130,130,UPI,True,12,Sunday
+ORD0270,2026-08-21,08:33,Coffee,Beverage,1,25,25,UPI,True,8,Friday
+ORD0271,2026-08-04,12:45,Chicken Biryani,Lunch,2,150,300,CARD,True,12,Tuesday
+ORD0272,2026-08-13,14:46,Coffee,Beverage,1,25,25,CARD,True,14,Thursday
+ORD0273,2026-08-04,08:12,Water Bottle,Beverage,1,20,20,UPI,True,8,Tuesday
+ORD0274,2026-08-29,12:26,Chicken Biryani,Lunch,3,150,450,UPI,True,12,Saturday
+ORD0275,2026-08-08,12:01,Samosa,Snacks,1,25,25,UPI,True,12,Saturday
+ORD0276,2026-08-25,09:38,Veg Biryani,Lunch,1,110,110,CASH,True,9,Tuesday
+ORD0277,2026-08-24,09:06,Coffee,Beverage,2,25,50,UPI,True,9,Monday
+ORD0278,2026-08-13,17:21,Chicken Biryani,Lunch,2,150,300,CASH,True,17,Thursday
+ORD0279,2026-08-09,14:57,Coffee,Beverage,1,25,25,CARD,True,14,Sunday
+ORD0280,2026-08-24,11:03,French Fries,Snacks,1,70,70,CASH,True,11,Monday
+ORD0281,2026-08-28,17:35,Noodles,Lunch,1,90,90,UPI,True,17,Friday
+ORD0282,2026-08-05,12:32,Veg Sandwich,Snacks,1,60,60,UPI,True,12,Wednesday
+ORD0283,2026-08-16,13:31,Samosa,Snacks,2,25,50,UPI,True,13,Sunday
+ORD0284,2026-08-13,12:34,Chicken Biryani,Lunch,1,150,150,UPI,True,12,Thursday
+ORD0285,2026-08-10,11:10,Veg Fried Rice,Lunch,4,100,400,UPI,True,11,Monday
+ORD0286,2026-08-19,14:38,Chicken Biryani,Lunch,2,150,300,UPI,True,14,Wednesday
+ORD0287,2026-08-05,08:58,Cold Drink,Beverage,1,40,40,UPI,True,8,Wednesday
+ORD0288,2026-08-13,08:43,Veg Biryani,Lunch,1,110,110,UPI,True,8,Thursday
+ORD0289,2026-08-06,14:57,Chicken Biryani,Lunch,1,150,150,UPI,True,14,Thursday
+ORD0290,2026-08-23,13:33,Veg Fried Rice,Lunch,1,100,100,UPI,True,13,Sunday
+ORD0291,2026-08-22,15:28,Veg Biryani,Lunch,2,110,220,UPI,True,15,Saturday
+ORD0292,2026-08-16,13:15,Veg Fried Rice,Lunch,1,100,100,UPI,True,13,Sunday
+ORD0293,2026-08-08,15:22,Coffee,Beverage,1,25,25,UPI,True,15,Saturday
+ORD0294,2026-08-05,11:56,Tea,Beverage,2,20,40,UPI,True,11,Wednesday
+ORD0295,2026-08-22,11:52,Idli Vada,Breakfast,2,45,90,CASH,True,11,Saturday
+ORD0296,2026-08-02,10:49,Idli Vada,Breakfast,1,45,45,UPI,True,10,Sunday
+ORD0297,2026-08-02,13:02,Water Bottle,Beverage,1,20,20,UPI,True,13,Sunday
+ORD0298,2026-08-04,09:42,Cold Drink,Beverage,1,40,40,UPI,True,9,Tuesday
+ORD0299,2026-08-20,16:37,Chicken Roll,Snacks,2,100,200,UPI,True,16,Thursday
+ORD0300,2026-08-24,13:15,Veg Biryani,Lunch,1,110,110,CASH,True,13,Monday
+ORD0301,2026-08-15,09:34,Veg Fried Rice,Lunch,1,100,100,CARD,True,9,Saturday
+ORD0302,2026-08-10,09:32,Coffee,Beverage,3,25,75,UPI,True,9,Monday
+ORD0303,2026-08-14,18:02,Cold Drink,Beverage,3,40,120,CASH,True,18,Friday
+ORD0304,2026-08-13,09:03,French Fries,Snacks,1,70,70,CARD,True,9,Thursday
+ORD0305,2026-08-28,08:30,Tea,Beverage,1,20,20,UPI,True,8,Friday
+ORD0306,2026-08-28,10:01,Fresh Lime,Beverage,2,35,70,UPI,True,10,Friday
+ORD0307,2026-08-19,08:01,Veg Biryani,Lunch,1,110,110,CASH,True,8,Wednesday
+ORD0308,2026-08-24,11:34,Samosa,Snacks,1,25,25,CASH,True,11,Monday
+ORD0309,2026-08-14,14:32,Poori,Breakfast,1,50,50,CARD,True,14,Friday
+ORD0310,2026-08-17,11:51,Chicken Roll,Snacks,2,100,200,CASH,True,11,Monday
+ORD0311,2026-08-18,16:34,Poori,Breakfast,1,50,50,UPI,True,16,Tuesday
+ORD0312,2026-08-14,11:54,Veg Sandwich,Snacks,1,60,60,UPI,True,11,Friday
+ORD0313,2026-08-22,13:57,Coffee,Beverage,1,25,25,UPI,True,13,Saturday
+ORD0314,2026-08-13,11:52,Masala Dosa,Breakfast,2,50,100,CARD,True,11,Thursday
+ORD0315,2026-08-04,13:20,French Fries,Snacks,2,70,140,UPI,True,13,Tuesday
+ORD0316,2026-08-26,18:59,Poori,Breakfast,2,50,100,CASH,True,18,Wednesday
+ORD0317,2026-08-29,11:41,Veg Fried Rice,Lunch,3,100,300,CARD,True,11,Saturday
+ORD0318,2026-08-17,16:59,Noodles,Lunch,1,90,90,UPI,True,16,Monday
+ORD0319,2026-08-18,15:27,Masala Dosa,Breakfast,2,50,100,UPI,True,15,Tuesday
+ORD0320,2026-08-27,11:59,Chicken Fried Rice,Lunch,1,130,130,CASH,True,11,Thursday
+ORD0321,2026-08-05,11:07,Tea,Beverage,1,20,20,UPI,True,11,Wednesday
+ORD0322,2026-08-11,17:23,Noodles,Lunch,1,90,90,UPI,True,17,Tuesday
+ORD0323,2026-08-08,13:51,French Fries,Snacks,2,70,140,UPI,True,13,Saturday
+ORD0324,2026-08-28,11:29,French Fries,Snacks,2,70,140,UPI,True,11,Friday
+ORD0325,2026-08-10,08:30,Masala Dosa,Breakfast,2,50,100,UPI,True,8,Monday
+ORD0326,2026-08-09,08:35,Veg Fried Rice,Lunch,1,100,100,CASH,True,8,Sunday
+ORD0327,2026-08-09,13:49,Water Bottle,Beverage,1,20,20,UPI,True,13,Sunday
+ORD0328,2026-08-27,11:31,Chocolate,Snacks,2,30,60,CASH,True,11,Thursday
+ORD0329,2026-08-28,08:39,Veg Sandwich,Snacks,1,60,60,UPI,True,8,Friday
+ORD0330,2026-08-08,11:49,Veg Fried Rice,Lunch,3,100,300,UPI,True,11,Saturday
+ORD0331,2026-08-21,11:55,Noodles,Lunch,4,90,360,UPI,True,11,Friday
+ORD0332,2026-08-30,15:46,Fresh Lime,Beverage,1,35,35,CASH,True,15,Sunday
+ORD0333,2026-08-21,12:06,Chocolate,Snacks,1,30,30,UPI,True,12,Friday
+ORD0334,2026-08-22,14:28,Tea,Beverage,2,20,40,UPI,True,14,Saturday
+ORD0335,2026-08-21,17:14,Tea,Beverage,1,20,20,CASH,True,17,Friday
+ORD0336,2026-08-13,11:55,Veg Fried Rice,Lunch,1,100,100,UPI,True,11,Thursday
+ORD0337,2026-08-23,17:24,Noodles,Lunch,2,90,180,UPI,True,17,Sunday
+ORD0338,2026-08-10,18:04,Veg Biryani,Lunch,3,110,330,UPI,True,18,Monday
+ORD0339,2026-08-03,17:24,Veg Fried Rice,Lunch,1,100,100,CASH,True,17,Monday
+ORD0340,2026-08-07,14:12,Chicken Biryani,Lunch,1,150,150,UPI,True,14,Friday
+ORD0341,2026-08-10,08:13,Tea,Beverage,1,20,20,CARD,True,8,Monday
+ORD0342,2026-08-25,13:54,Noodles,Lunch,1,90,90,UPI,True,13,Tuesday
+ORD0343,2026-08-26,14:09,French Fries,Snacks,3,70,210,UPI,True,14,Wednesday
+ORD0344,2026-08-05,10:20,Noodles,Lunch,1,90,90,UPI,True,10,Wednesday
+ORD0345,2026-08-28,10:06,Coffee,Beverage,1,25,25,UPI,True,10,Friday
+ORD0346,2026-08-24,14:03,Poori,Breakfast,1,50,50,UPI,True,14,Monday
+ORD0347,2026-08-30,14:18,Coffee,Beverage,1,25,25,UPI,True,14,Sunday
+ORD0348,2026-08-22,12:37,Noodles,Lunch,1,90,90,CASH,True,12,Saturday
+ORD0349,2026-08-19,10:48,Veg Fried Rice,Lunch,1,100,100,UPI,True,10,Wednesday
+ORD0350,2026-08-20,17:10,Idli Vada,Breakfast,2,45,90,UPI,True,17,Thursday
+ORD0351,2026-08-01,14:46,Veg Fried Rice,Lunch,1,100,100,UPI,True,14,Saturday
+ORD0352,2026-08-14,12:15,Tea,Beverage,1,20,20,UPI,True,12,Friday
+ORD0353,2026-08-10,08:29,French Fries,Snacks,2,70,140,UPI,True,8,Monday
+ORD0354,2026-08-17,17:41,Water Bottle,Beverage,2,20,40,UPI,True,17,Monday
+ORD0355,2026-08-05,08:20,Fresh Lime,Beverage,1,35,35,UPI,True,8,Wednesday
+ORD0356,2026-08-06,10:49,Chicken Biryani,Lunch,3,150,450,CASH,True,10,Thursday
+ORD0357,2026-08-04,08:30,Tea,Beverage,3,20,60,UPI,True,8,Tuesday
+ORD0358,2026-08-21,09:21,Idli Vada,Breakfast,1,45,45,UPI,True,9,Friday
+ORD0359,2026-08-28,18:53,Coffee,Beverage,1,25,25,CASH,True,18,Friday
+ORD0360,2026-08-06,14:42,Idli Vada,Breakfast,1,45,45,CARD,True,14,Thursday
+ORD0361,2026-08-25,13:06,French Fries,Snacks,1,70,70,UPI,True,13,Tuesday
+ORD0362,2026-08-24,10:20,Veg Biryani,Lunch,1,110,110,UPI,True,10,Monday
+ORD0363,2026-08-14,16:04,Tea,Beverage,2,20,40,UPI,True,16,Friday
+ORD0364,2026-08-24,11:11,French Fries,Snacks,1,70,70,UPI,True,11,Monday
+ORD0365,2026-08-18,11:06,Tea,Beverage,2,20,40,UPI,True,11,Tuesday
+ORD0366,2026-08-24,16:42,Poori,Breakfast,1,50,50,CASH,True,16,Monday
+ORD0367,2026-08-17,12:00,Chicken Biryani,Lunch,1,150,150,UPI,True,12,Monday
+ORD0368,2026-08-22,12:15,Fresh Lime,Beverage,1,35,35,UPI,True,12,Saturday
+ORD0369,2026-08-22,16:59,Samosa,Snacks,1,25,25,CARD,True,16,Saturday
+ORD0370,2026-08-19,10:20,Coffee,Beverage,1,25,25,UPI,True,10,Wednesday
+ORD0371,2026-08-14,08:14,Tea,Beverage,3,20,60,CASH,True,8,Friday
+ORD0372,2026-08-27,14:25,Water Bottle,Beverage,1,20,20,UPI,True,14,Thursday
+ORD0373,2026-08-24,15:41,Chicken Fried Rice,Lunch,1,130,130,UPI,True,15,Monday
+ORD0374,2026-08-20,13:18,Chicken Fried Rice,Lunch,1,130,130,UPI,True,13,Thursday
+ORD0375,2026-08-12,14:40,Veg Biryani,Lunch,1,110,110,UPI,True,14,Wednesday
+ORD0376,2026-08-23,09:39,Chicken Biryani,Lunch,1,150,150,UPI,True,9,Sunday
+ORD0377,2026-08-06,13:44,Coffee,Beverage,3,25,75,UPI,True,13,Thursday
+ORD0378,2026-08-08,13:07,Chicken Fried Rice,Lunch,3,130,390,UPI,True,13,Saturday
+ORD0379,2026-08-11,16:53,Samosa,Snacks,2,25,50,UPI,True,16,Tuesday
+ORD0380,2026-08-11,17:44,Chicken Fried Rice,Lunch,4,130,520,UPI,True,17,Tuesday
+ORD0381,2026-08-13,16:30,Samosa,Snacks,2,25,50,UPI,True,16,Thursday
+ORD0382,2026-08-05,11:19,Veg Biryani,Lunch,3,110,330,UPI,True,11,Wednesday
+ORD0383,2026-08-05,11:51,Chocolate,Snacks,3,30,90,UPI,True,11,Wednesday
+ORD0384,2026-08-28,13:43,Samosa,Snacks,1,25,25,UPI,True,13,Friday
+ORD0385,2026-08-02,16:25,Coffee,Beverage,1,25,25,UPI,True,16,Sunday
+ORD0386,2026-08-26,14:33,Poori,Breakfast,1,50,50,UPI,True,14,Wednesday
+ORD0387,2026-08-26,14:21,Chicken Biryani,Lunch,2,150,300,CASH,True,14,Wednesday
+ORD0388,2026-08-30,14:15,Chocolate,Snacks,1,30,30,UPI,True,14,Sunday
+ORD0389,2026-08-24,08:19,Idli Vada,Breakfast,1,45,45,CASH,True,8,Monday
+ORD0390,2026-08-23,12:24,Idli Vada,Breakfast,1,45,45,UPI,True,12,Sunday
+ORD0391,2026-08-21,12:51,Masala Dosa,Breakfast,3,50,150,CASH,True,12,Friday
+ORD0392,2026-08-07,10:17,Coffee,Beverage,2,25,50,CASH,True,10,Friday
+ORD0393,2026-08-27,09:37,Veg Biryani,Lunch,1,110,110,UPI,True,9,Thursday
+ORD0394,2026-08-30,16:58,Veg Fried Rice,Lunch,1,100,100,UPI,True,16,Sunday
+ORD0395,2026-08-24,16:47,Masala Dosa,Breakfast,2,50,100,CARD,True,16,Monday
+ORD0396,2026-08-03,18:44,Tea,Beverage,3,20,60,CASH,True,18,Monday
+ORD0397,2026-08-27,13:46,Chicken Biryani,Lunch,1,150,150,UPI,True,13,Thursday
+ORD0398,2026-08-21,09:08,Veg Biryani,Lunch,1,110,110,UPI,True,9,Friday
+ORD0399,2026-08-25,08:58,Coffee,Beverage,2,25,50,UPI,True,8,Tuesday
+ORD0400,2026-08-27,15:45,Cold Drink,Beverage,1,40,40,CARD,True,15,Thursday
+ORD0401,2026-08-23,18:29,Veg Biryani,Lunch,1,110,110,UPI,True,18,Sunday
+ORD0402,2026-08-14,11:47,Fresh Lime,Beverage,2,35,70,UPI,True,11,Friday
+ORD0403,2026-08-01,11:03,Tea,Beverage,2,20,40,UPI,True,11,Saturday
+ORD0404,2026-08-01,14:11,Masala Dosa,Breakfast,3,50,150,UPI,True,14,Saturday
+ORD0405,2026-08-15,15:21,Coffee,Lunch,1,150,150,UPI,True,15,Saturday
+ORD0406,2026-08-20,13:06,Coffee,Beverage,1,25,25,UPI,True,13,Thursday
+ORD0407,2026-08-12,12:23,Chicken Fried Rice,Lunch,1,130,130,CASH,True,12,Wednesday
+ORD0408,2026-08-01,12:24,Samosa,Snacks,1,25,25,UPI,True,12,Saturday
+ORD0409,2026-08-06,09:00,Masala Dosa,Breakfast,1,50,50,UPI,True,9,Thursday
+ORD0410,2026-08-03,11:19,Chicken Roll,Snacks,1,100,100,UPI,True,11,Monday
+ORD0411,2026-08-06,10:19,Fresh Lime,Beverage,1,35,35,UPI,True,10,Thursday
+ORD0412,2026-08-21,09:42,Veg Fried Rice,Lunch,1,100,100,UPI,True,9,Friday
+ORD0413,2026-08-24,14:20,Idli Vada,Breakfast,1,45,45,UPI,True,14,Monday
+ORD0414,2026-08-09,12:18,Masala Dosa,Breakfast,1,50,50,CARD,True,12,Sunday
+ORD0415,2026-08-13,14:07,Veg Fried Rice,Lunch,3,100,300,CASH,True,14,Thursday
+ORD0416,2026-08-12,12:38,Noodles,Lunch,3,90,270,CASH,True,12,Wednesday
+ORD0417,2026-08-25,08:46,Chicken Biryani,Lunch,1,150,150,UPI,True,8,Tuesday
+ORD0418,2026-08-18,11:35,Chicken Roll,Snacks,1,100,100,UPI,True,11,Tuesday
+ORD0419,2026-08-28,18:57,Veg Biryani,Lunch,1,110,110,CASH,True,18,Friday
+ORD0420,2026-08-02,12:50,Noodles,Lunch,1,90,90,UPI,True,12,Sunday
+ORD0421,2026-08-18,10:27,Veg Sandwich,Snacks,1,60,60,UPI,True,10,Tuesday
+ORD0422,2026-08-21,09:39,Cold Drink,Beverage,2,40,80,CASH,True,9,Friday
+ORD0423,2026-08-12,11:14,Samosa,Snacks,1,25,25,UPI,True,11,Wednesday
+ORD0424,2026-08-17,14:56,Chicken Roll,Snacks,1,100,100,UPI,True,14,Monday
+ORD0425,2026-08-11,13:08,Veg Fried Rice,Lunch,1,100,100,CASH,True,13,Tuesday
+ORD0426,2026-08-28,13:27,Chicken Roll,Snacks,1,100,100,CASH,True,13,Friday
+ORD0427,2026-08-23,12:58,Samosa,Snacks,1,25,25,CASH,True,12,Sunday
+ORD0428,2026-08-01,14:36,Veg Biryani,Lunch,2,110,220,UPI,True,14,Saturday
+ORD0429,2026-08-01,08:09,French Fries,Snacks,2,70,140,UPI,True,8,Saturday
+ORD0430,2026-08-11,17:48,Veg Fried Rice,Lunch,1,100,100,CASH,True,17,Tuesday
+ORD0431,2026-08-08,09:00,French Fries,Snacks,1,70,70,UPI,True,9,Saturday
+ORD0432,2026-08-18,10:02,Chicken Fried Rice,Lunch,3,130,390,UPI,True,10,Tuesday
+ORD0433,2026-08-27,17:41,Chicken Roll,Snacks,1,100,100,UPI,True,17,Thursday
+ORD0434,2026-08-29,11:57,Chicken Fried Rice,Lunch,1,130,130,CARD,True,11,Saturday
+ORD0435,2026-08-05,12:59,Chicken Fried Rice,Lunch,1,130,130,UPI,True,12,Wednesday
+ORD0436,2026-08-27,11:31,Water Bottle,Beverage,1,20,20,UPI,True,11,Thursday
+ORD0437,2026-08-05,11:21,Chicken Fried Rice,Lunch,1,130,130,CASH,True,11,Wednesday
+ORD0438,2026-08-03,13:57,Samosa,Snacks,1,25,25,UPI,True,13,Monday
+ORD0439,2026-08-12,18:50,Chicken Roll,Snacks,1,100,100,UPI,True,18,Wednesday
+ORD0440,2026-08-29,13:35,Chicken Fried Rice,Lunch,1,130,130,CARD,True,13,Saturday
+ORD0441,2026-08-28,14:57,Samosa,Snacks,1,25,25,CASH,True,14,Friday
+ORD0442,2026-08-08,14:53,Masala Dosa,Breakfast,1,50,50,CARD,True,14,Saturday
+ORD0443,2026-08-21,13:11,Chicken Biryani,Lunch,1,150,150,CASH,True,13,Friday
+ORD0444,2026-08-07,18:40,Poori,Breakfast,3,50,150,CARD,True,18,Friday
+ORD0445,2026-08-17,14:43,Water Bottle,Beverage,2,20,40,UPI,True,14,Monday
+ORD0446,2026-08-23,11:23,French Fries,Snacks,1,70,70,UPI,True,11,Sunday
+ORD0447,2026-08-25,11:13,French Fries,Snacks,1,70,70,UPI,True,11,Tuesday
+ORD0448,2026-08-15,11:34,Tea,Beverage,1,20,20,UPI,True,11,Saturday
+ORD0449,2026-08-20,11:31,Masala Dosa,Breakfast,1,50,50,UPI,True,11,Thursday
+ORD0450,2026-08-03,12:30,Chicken Fried Rice,Lunch,2,130,260,CASH,True,12,Monday
+ORD0451,2026-08-22,12:09,Noodles,Lunch,1,90,90,UPI,True,12,Saturday
+ORD0452,2026-08-16,13:55,Coffee,Beverage,1,25,25,CASH,True,13,Sunday
+ORD0453,2026-08-03,11:39,Chocolate,Snacks,1,30,30,UPI,True,11,Monday
+ORD0454,2026-08-01,13:36,French Fries,Snacks,1,70,70,CARD,True,13,Saturday
+ORD0455,2026-08-28,14:34,Noodles,Lunch,1,90,90,UPI,True,14,Friday
+ORD0456,2026-08-09,14:29,Tea,Beverage,1,20,20,UPI,True,14,Sunday
+ORD0457,2026-08-08,15:31,Poori,Breakfast,1,50,50,CARD,True,15,Saturday
+ORD0458,2026-08-27,11:54,Fresh Lime,Beverage,2,35,70,UPI,True,11,Thursday
+ORD0459,2026-08-06,08:55,Masala Dosa,Breakfast,1,50,50,UPI,True,8,Thursday
+ORD0460,2026-08-07,14:54,Veg Fried Rice,Lunch,3,100,300,UPI,True,14,Friday
+ORD0461,2026-08-21,12:52,Fresh Lime,Beverage,1,35,35,UPI,True,12,Friday
+ORD0462,2026-08-19,08:54,Chicken Biryani,Lunch,1,150,150,UPI,True,8,Wednesday
+ORD0463,2026-08-10,14:31,Coffee,Beverage,1,25,25,UPI,True,14,Monday
+ORD0464,2026-08-14,16:29,Coffee,Beverage,1,25,25,UPI,True,16,Friday
+ORD0465,2026-08-23,13:13,Tea,Beverage,3,20,60,CASH,True,13,Sunday
+ORD0466,2026-08-11,11:30,Samosa,Snacks,1,25,25,CASH,True,11,Tuesday
+ORD0467,2026-08-18,13:23,Samosa,Snacks,2,25,50,UPI,True,13,Tuesday
+ORD0468,2026-08-05,10:56,Water Bottle,Beverage,1,20,20,UPI,True,10,Wednesday
+ORD0469,2026-08-27,12:14,Fresh Lime,Beverage,3,35,105,UPI,True,12,Thursday
+ORD0470,2026-08-06,15:16,Veg Fried Rice,Lunch,2,100,200,UPI,True,15,Thursday
+ORD0471,2026-08-01,17:09,Water Bottle,Beverage,1,20,20,UPI,True,17,Saturday
+ORD0472,2026-08-11,18:10,Noodles,Lunch,3,90,270,CASH,True,18,Tuesday
+ORD0473,2026-08-30,13:11,Samosa,Snacks,4,25,100,UPI,True,13,Sunday
+ORD0474,2026-08-22,11:34,Water Bottle,Beverage,1,20,20,UPI,True,11,Saturday
+ORD0475,2026-08-14,10:40,Tea,Beverage,1,20,20,UPI,True,10,Friday
+ORD0476,2026-08-04,08:37,Fresh Lime,Beverage,1,35,35,CASH,True,8,Tuesday
+ORD0477,2026-08-01,11:33,Coffee,Beverage,1,25,25,CARD,True,11,Saturday
+ORD0478,2026-08-04,14:43,Tea,Beverage,1,20,20,CASH,True,14,Tuesday
+ORD0479,2026-08-22,10:34,Chicken Biryani,Lunch,2,150,300,CASH,True,10,Saturday
+ORD0480,2026-08-22,11:09,Veg Biryani,Lunch,1,110,110,UPI,True,11,Saturday
+ORD0481,2026-08-24,12:09,Fresh Lime,Beverage,1,35,35,CASH,True,12,Monday
+ORD0482,2026-08-06,14:28,Veg Biryani,Lunch,1,110,110,CARD,True,14,Thursday
+ORD0483,2026-08-28,13:27,Veg Fried Rice,Lunch,1,100,100,UPI,True,13,Friday
+ORD0484,2026-08-28,08:41,Chocolate,Snacks,2,30,60,CASH,True,8,Friday
+ORD0485,2026-08-02,14:52,Veg Sandwich,Snacks,1,60,60,CASH,True,14,Sunday
+ORD0486,2026-08-07,14:15,French Fries,Snacks,1,70,70,UPI,True,14,Friday
+ORD0487,2026-08-07,14:10,Cold Drink,Beverage,2,40,80,UPI,True,14,Friday
+ORD0488,2026-08-24,14:39,Chicken Fried Rice,Lunch,1,130,130,UPI,True,14,Monday
+ORD0489,2026-08-02,14:22,Chicken Biryani,Lunch,2,150,300,UPI,True,14,Sunday
+ORD0490,2026-08-08,18:19,Water Bottle,Beverage,1,20,20,CARD,True,18,Saturday
+ORD0491,2026-08-28,09:43,Tea,Beverage,1,20,20,CASH,True,9,Friday
+ORD0492,2026-08-25,13:12,Coffee,Beverage,2,25,50,UPI,True,13,Tuesday
+ORD0493,2026-08-15,11:48,Veg Sandwich,Snacks,3,60,180,UPI,True,11,Saturday
+ORD0494,2026-08-22,15:45,Chicken Fried Rice,Lunch,1,130,130,UPI,True,15,Saturday
+ORD0495,2026-08-05,14:53,Chicken Fried Rice,Lunch,1,130,130,UPI,True,14,Wednesday
+ORD0496,2026-08-02,11:45,Chicken Roll,Snacks,1,100,100,UPI,True,11,Sunday
+ORD0497,2026-08-22,12:12,Tea,Beverage,1,20,20,UPI,True,12,Saturday
+ORD0498,2026-08-06,10:43,Chicken Fried Rice,Lunch,2,130,260,CARD,True,10,Thursday
+ORD0499,2026-08-13,14:05,Veg Biryani,Lunch,1,110,110,UPI,True,14,Thursday
+ORD0500,2026-08-28,12:56,Chocolate,Snacks,1,30,30,UPI,True,12,Friday
+ORD0501,2026-08-18,09:17,Chicken Biryani,Lunch,4,150,600,UPI,True,9,Tuesday
+ORD0502,2026-08-19,11:42,Tea,Beverage,1,20,20,CARD,True,11,Wednesday
+ORD0503,2026-08-02,09:31,Tea,Beverage,1,20,20,UPI,True,9,Sunday
+ORD0504,2026-08-11,09:21,Noodles,Lunch,2,90,180,UPI,True,9,Tuesday
+ORD0505,2026-08-05,14:27,Masala Dosa,Breakfast,1,50,50,UPI,True,14,Wednesday
+ORD0506,2026-08-24,10:07,Coffee,Beverage,2,25,50,UPI,True,10,Monday
+ORD0507,2026-08-27,11:44,Masala Dosa,Breakfast,1,50,50,UPI,True,11,Thursday
+ORD0508,2026-08-24,15:31,Chocolate,Snacks,1,30,30,UPI,True,15,Monday
+ORD0509,2026-08-03,13:34,Veg Fried Rice,Lunch,3,100,300,UPI,True,13,Monday
+ORD0510,2026-08-14,15:19,Chicken Biryani,Lunch,1,150,150,UPI,True,15,Friday
+ORD0511,2026-08-01,08:19,Chicken Roll,Snacks,1,100,100,UPI,True,8,Saturday
+ORD0512,2026-08-11,11:16,Tea,Beverage,1,20,20,UPI,True,11,Tuesday
+ORD0513,2026-08-09,13:55,Water Bottle,Beverage,1,20,20,UPI,True,13,Sunday
+ORD0514,2026-08-26,10:46,Fresh Lime,Beverage,3,35,105,CASH,True,10,Wednesday
+ORD0515,2026-08-05,16:19,Veg Fried Rice,Lunch,1,100,100,UPI,True,16,Wednesday
+ORD0516,2026-08-29,14:38,Chicken Roll,Snacks,1,100,100,UPI,True,14,Saturday
+ORD0517,2026-08-27,15:00,Idli Vada,Breakfast,1,45,45,CASH,True,15,Thursday
+ORD0518,2026-08-08,11:23,Masala Dosa,Breakfast,1,50,50,CASH,True,11,Saturday
+ORD0519,2026-08-02,14:51,Cold Drink,Beverage,1,40,40,UPI,True,14,Sunday
+ORD0520,2026-08-30,11:56,Veg Biryani,Lunch,1,110,110,UPI,True,11,Sunday
+ORD0521,2026-08-25,12:20,Chocolate,Snacks,1,30,30,UPI,True,12,Tuesday
+ORD0522,2026-08-19,09:50,Masala Dosa,Breakfast,2,50,100,CASH,True,9,Wednesday
+ORD0523,2026-08-05,12:36,Tea,Beverage,2,20,40,CASH,True,12,Wednesday
+ORD0524,2026-08-14,13:53,Poori,Breakfast,1,50,50,UPI,True,13,Friday
+ORD0525,2026-08-22,11:15,Veg Fried Rice,Lunch,1,100,100,UPI,True,11,Saturday
+ORD0526,2026-08-10,12:08,Masala Dosa,Breakfast,1,50,50,UPI,True,12,Monday
+ORD0527,2026-08-22,14:46,Samosa,Snacks,2,25,50,CASH,True,14,Saturday
+ORD0528,2026-08-06,13:35,Tea,Beverage,4,20,80,UPI,True,13,Thursday
+ORD0529,2026-08-02,13:05,Noodles,Lunch,3,90,270,CASH,True,13,Sunday
+ORD0530,2026-08-07,12:58,Fresh Lime,Beverage,1,35,35,UPI,True,12,Friday
+ORD0531,2026-08-06,17:16,French Fries,Snacks,2,70,140,CASH,True,17,Thursday
+ORD0532,2026-08-15,11:02,Veg Fried Rice,Lunch,1,100,100,UPI,True,11,Saturday
+ORD0533,2026-08-04,10:39,Veg Fried Rice,Lunch,2,100,200,UPI,True,10,Tuesday
+ORD0534,2026-08-02,13:28,Veg Fried Rice,Lunch,2,100,200,UPI,True,13,Sunday
+ORD0535,2026-08-17,11:26,Veg Biryani,Lunch,1,110,110,UPI,True,11,Monday
+ORD0536,2026-08-16,14:15,Coffee,Beverage,1,25,25,CASH,True,14,Sunday
+ORD0537,2026-08-20,12:55,Noodles,Lunch,2,90,180,UPI,True,12,Thursday
+ORD0538,2026-08-08,13:49,Chicken Roll,Snacks,2,100,200,CARD,True,13,Saturday
+ORD0539,2026-08-18,08:48,Chicken Roll,Snacks,1,100,100,UPI,True,8,Tuesday
+ORD0540,2026-08-05,11:04,French Fries,Snacks,2,70,140,UPI,True,11,Wednesday
+ORD0541,2026-08-22,12:47,Chicken Roll,Snacks,1,100,100,UPI,True,12,Saturday
+ORD0542,2026-08-27,14:32,Masala Dosa,Breakfast,2,50,100,UPI,True,14,Thursday
+ORD0543,2026-08-15,18:53,Poori,Breakfast,1,50,50,CARD,True,18,Saturday
+ORD0544,2026-08-24,11:07,Samosa,Snacks,1,25,25,UPI,True,11,Monday
+ORD0545,2026-08-17,14:40,Poori,Breakfast,2,50,100,CASH,True,14,Monday
+ORD0546,2026-08-09,13:58,Chicken Roll,Snacks,1,100,100,UPI,True,13,Sunday
+ORD0547,2026-08-03,12:37,Samosa,Snacks,3,25,75,UPI,True,12,Monday
+ORD0548,2026-08-07,18:26,Veg Sandwich,Snacks,1,60,60,CASH,True,18,Friday
+ORD0549,2026-08-19,12:52,Chicken Biryani,Lunch,1,150,150,CARD,True,12,Wednesday
+ORD0550,2026-08-15,14:47,Veg Biryani,Lunch,1,110,110,UPI,True,14,Saturday
+ORD0551,2026-08-27,15:18,Chicken Biryani,Lunch,1,150,150,UPI,True,15,Thursday
+ORD0552,2026-08-15,15:58,Chicken Roll,Snacks,2,100,200,UPI,True,15,Saturday
+ORD0553,2026-08-30,11:44,Noodles,Lunch,1,90,90,UPI,True,11,Sunday
+ORD0554,2026-08-04,11:44,Water Bottle,Beverage,1,20,20,CASH,True,11,Tuesday
+ORD0555,2026-08-06,09:26,Chocolate,Snacks,1,30,30,UPI,True,9,Thursday
+ORD0556,2026-08-27,17:14,Idli Vada,Breakfast,2,45,90,UPI,True,17,Thursday
+ORD0557,2026-08-27,11:42,Masala Dosa,Breakfast,2,50,100,UPI,True,11,Thursday
+ORD0558,2026-08-20,11:22,Chicken Roll,Snacks,1,100,100,CARD,True,11,Thursday
+ORD0559,2026-08-01,14:33,Chicken Roll,Snacks,1,100,100,UPI,True,14,Saturday
+ORD0560,2026-08-03,14:17,Chicken Roll,Snacks,1,100,100,UPI,True,14,Monday
+ORD0561,2026-08-18,17:12,Coffee,Beverage,2,25,50,UPI,True,17,Tuesday
+ORD0562,2026-08-06,12:07,Tea,Beverage,1,20,20,UPI,True,12,Thursday
+ORD0563,2026-08-09,17:48,Chicken Roll,Snacks,2,100,200,CARD,True,17,Sunday
+ORD0564,2026-08-05,15:01,Noodles,Lunch,2,90,180,UPI,True,15,Wednesday
+ORD0565,2026-08-28,12:59,Fresh Lime,Beverage,1,35,35,CASH,True,12,Friday
+ORD0566,2026-08-18,13:57,Coffee,Beverage,1,25,25,UPI,True,13,Tuesday
+ORD0567,2026-08-07,14:27,Masala Dosa,Breakfast,1,50,50,CASH,True,14,Friday
+ORD0568,2026-08-14,12:37,Masala Dosa,Breakfast,1,50,50,UPI,True,12,Friday
+ORD0569,2026-08-17,13:02,Veg Sandwich,Snacks,2,60,120,CASH,True,13,Monday
+ORD0570,2026-08-03,10:55,Coffee,Beverage,1,25,25,UPI,True,10,Monday
+ORD0571,2026-08-29,15:44,French Fries,Snacks,1,70,70,CARD,True,15,Saturday
+ORD0572,2026-08-05,12:57,Samosa,Snacks,3,25,75,CASH,True,12,Wednesday
+ORD0573,2026-08-21,08:34,Cold Drink,Beverage,1,40,40,UPI,True,8,Friday
+ORD0574,2026-08-05,17:15,Noodles,Lunch,2,90,180,UPI,True,17,Wednesday
+ORD0575,2026-08-22,13:12,Samosa,Snacks,2,25,50,UPI,True,13,Saturday
+ORD0576,2026-08-16,08:01,Poori,Breakfast,1,50,50,CASH,True,8,Sunday
+ORD0577,2026-08-30,08:42,Veg Sandwich,Snacks,2,60,120,CASH,True,8,Sunday
+ORD0578,2026-08-26,09:08,French Fries,Snacks,1,70,70,UPI,True,9,Wednesday
+ORD0579,2026-08-07,13:53,Idli Vada,Breakfast,1,45,45,CARD,True,13,Friday
+ORD0580,2026-08-08,11:32,Chocolate,Snacks,1,30,30,CASH,True,11,Saturday
+ORD0581,2026-08-15,09:50,Tea,Beverage,1,20,20,UPI,True,9,Saturday
+ORD0582,2026-08-29,08:52,Veg Biryani,Lunch,1,110,110,UPI,True,8,Saturday
+ORD0583,2026-08-24,08:25,Noodles,Lunch,3,90,270,UPI,True,8,Monday
+ORD0584,2026-08-17,16:16,Water Bottle,Beverage,2,20,40,UPI,True,16,Monday
+ORD0585,2026-08-03,14:25,Veg Biryani,Lunch,1,110,110,UPI,True,14,Monday
+ORD0586,2026-08-28,11:56,Noodles,Lunch,3,90,270,UPI,True,11,Friday
+ORD0587,2026-08-12,16:28,French Fries,Snacks,1,70,70,CASH,True,16,Wednesday
+ORD0588,2026-08-13,09:29,Chicken Fried Rice,Lunch,2,130,260,UPI,True,9,Thursday
+ORD0589,2026-08-16,09:11,Chicken Roll,Snacks,1,100,100,CASH,True,9,Sunday
+ORD0590,2026-08-15,11:17,Idli Vada,Breakfast,1,45,45,CASH,True,11,Saturday
+ORD0591,2026-08-15,16:28,Chicken Roll,Snacks,1,100,100,UPI,True,16,Saturday
+ORD0592,2026-08-14,09:03,French Fries,Snacks,1,70,70,CASH,True,9,Friday
+ORD0593,2026-08-26,16:42,French Fries,Snacks,2,70,140,CASH,True,16,Wednesday
+ORD0594,2026-08-09,15:55,Masala Dosa,Breakfast,1,50,50,UPI,True,15,Sunday
+ORD0595,2026-08-08,14:44,Veg Fried Rice,Lunch,1,100,100,UPI,True,14,Saturday
+ORD0596,2026-08-20,14:43,Veg Sandwich,Snacks,2,60,120,UPI,True,14,Thursday
+ORD0597,2026-08-09,12:16,French Fries,Snacks,1,70,70,UPI,True,12,Sunday
+ORD0598,2026-08-21,15:52,Chicken Biryani,Lunch,2,150,300,UPI,True,15,Friday
+ORD0599,2026-08-10,14:07,Veg Fried Rice,Lunch,1,100,100,UPI,True,14,Monday
+ORD0600,2026-08-13,14:09,Chicken Roll,Snacks,1,100,100,UPI,True,14,Thursday
